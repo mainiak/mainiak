@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mainiak
-- 👀 I’m interested in DevOps, Kubernetes, OCI/Docker, Linux, full-stack programming, etc.
+- 👀 I’m interested in DevOps, Kubernetes, OCI/Docker, Linux, IPLD and IPFS, full-stack programming, etc.
 - 🌱 I’m currently learning many things, and still learning more about what I looked into before - ie. Go, Redis, Kubernetes, ...
 - 💞️ I’m NOT currently looking to collaborate on any projects, but might in future
 <!--
