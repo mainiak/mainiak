@@ -22,7 +22,9 @@ You can click the Preview link to take a look at your changes.
 - I ❤️ [IPFS](https://ipfs.tech/) and especially [IPLD](https://ipld.io/) and [libp2p](https://libp2p.io/) (there is a Discord server!)
 - I ❤️ [Kubernetes](https://kubernetes.io/) (K8S), [Podman](https://podman.io/), [Buildah](https://buildah.io/), and Docker
 - I ❤️ IaaC / GitOps ... and I like big cloud vendors (AWS primarily)
-- I ❤️ space (good luck SpaceX!), books, and people who are nice each other
+- I ❤️ my [Yubikey tokens](https://www.yubico.com/products/yubikey-5-overview/) (waiting for PKCS#11 support in Web Crypto API)
+- I ❤️ space (good luck SpaceX!), books, cats and dogs (but cats more), and people who are nice each other
+- I ❤️ my MacBook
 
 Checkout my [starred repository list](https://github.com/mainiak?direction=desc&sort=stars&tab=stars) as those caught my eye (for reason or another)
 
